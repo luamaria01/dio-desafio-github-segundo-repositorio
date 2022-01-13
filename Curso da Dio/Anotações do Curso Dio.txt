@@ -1,0 +1,137 @@
+Estudo _ Lógica de Programa Essencial
+
+
+Abstração – “é a habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando características menos importantes ou acidentais”.
+Calcular média aritmética = multiplica cada valor conjunto de dados pelo seu peso.
+Calcular média – soma dos valores/ número de valores. 
+Algoritmo – “é uma sequencias de passos que resolve um problema”.
+Pseudocódigo – “é uma maneira genérica de escrever um algoritmo, utilizando uma linguagem simples (nativa, ou seja, em português e quem o escreve de forma a ser entendida por qualquer pessoa)”. Apenas para aprender a programar. Comando em inglês. 
+https://studio.code.org/s/mc/stage/1/puzzle/1
+
+Fluxograma: É uma ferramenta utiliza para representar graficamente o algoritmo, isto é, a sequência lógica e coerente do fluxo de dados. 
+Variáveis= na programação, uma variável é um objeto (uma posição, frequentemente localizada na memória) capaz de reter e representar um valor ou expressão. 
+
+Tipos de variáveis:  Numéricas, caracteres, alfanuméricas ou logicas. 
+www.flowgorithm.org
+Expressões Aritméticas – expressões que utilizam operadores aritméticos e função aritméticas envolvendo constantes e variáveis. 
+Operações relacionais: são expressões compostas por outras expressões ou variveis numéricas com operadores relacionais. As expressões relacionais retornam valores lógicos (verdadeiros | falso).
+1>2 = Falso
+
+2>1 = Verdadeiro
+Tomadas de decisão – quando escrevemos programas, geralmente ocorre a necessidade de decidir o que faz dependendo de alguma condição encontrada durante a execução. 
+Concatenação é um termo usado em computação para designar a operação de unir o conteúdo de duas strings. 
+Strings – é uma sequencia de caracteres. Exemplo.
+Agrupamento de duas ou mais células que, incluindo formulas, textos ou outras informações contidas no seu interior, dá origem a um único resultado. 
+Estrutura de repetição = estrutura que permiti executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com uma condição ou com um cantador. 
+Linguagem de programação e o Portugol – o que é linguagem de programação é uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas (Software). Um Software pode ser desenvolvido para roda em um computador, dispositivo móvel ou em qualquer equipamento que permite sua execução.
+Pode ser de Alto Nível e Baixo Nível 
+Alto Nível : a sintaxe se aproxima mais da nossa linguagem e se distanciam mais da linguagem de máquina. 
+Baixo Nível É aquela que se aproxima mais da linguagem de máquina. Essas são as que você precisa ter o conhecimento direto da arquitetura do computador para fazer algumas coisas. 
+https://github.com/UNIVALI-LITE/Portugol-Studio/releases/
+Utillização: a palavra reservada SE, a condição a ser testada entre parênteses e entre chaves caso o desvio seja VERDADEIRO.
+
+Laços de repetição – Portugol – Dentro da logica de programação é uma estrutura 
+Matrizes e vetores – coleção de variáveis de mesmo tipo, acessíveis com um único número e armazenados contiguamente na memória. 
+
+Estruturas de Dados: é uma estrutura organizada de dados na memoria de um computador ou em qualquer dispositivo de armazenamento, de forma que os dados possam ser utilizados de forma correta. A memória é volátil 
+Algoritmo: é um conjunto de instruções estruturadas e ordenadas, seu objetivo é realizar uma tarefa ou operação especifica. 
+Os algoritmos são utilizados para manipular dados nas estruturas de varias formas, como por exemplo: inserir excluir, procurar e ordenar dados. 
+Inserir dados;
+Excluir dados;
+Localizar um elemento;
+Percorrer todos os iten constitui
+Principais estruturas de dados 
+Vetores e matrizes 
+Registro
+Lista
+Fila árvore
+
+Vetores e Matrizes são estruturas de dados simples que podem auxiliar quando há muitas variáveis do mesmo tipo em um algoritmo. 
+Matrix é um vetor que possui duas ou mais dimensões.
+
+Registros é uma estrutura que fornece um formato especializado para armazenar informações em memória. É composto por campos que especificam cada uma das informações que o compõem, serve para cadastrar dados. Pode ser acessado pelo operador ponto(.).
+
+Listas – a diferença entre listas e arrays é a de que as listas possuem tamanho ajustável, enquanto arrays possuem tamanho fixo. 
+Exiteste dois tipos de listas
+
+Lista ligada – está ligado ao nó.
+Lista duplamente ligada – temos a ligação com próximo anterior e com o próximo elemento. 
+
+Pilhas – é uma estrutura de dados que serve como uma coleção de elementos. Só pode ser romivod um de cada vez. 
+
+Lufo ou UEPS – o primeiro elemento a ser tirado o ultimo que foi colocado. 
+Fifo ou peps – o primeiro elemento a ser a retirado e o primeiro que tiver sido inserido.  
+retira de baixo para cima. 
+
+Filas : admite remoção de elementos e inserção de novos sujeitos à  seguinte regra de operação: 
+
+o elemento removido é o que está na estrutura há mais tempo ou seja, o primeiro objeto inserido na fila é também o primeiro a ser removido seguindo o conceito FIFO. 
+
+Estrutura de dados do tipo Árvore, Tabela Hash e Grafos
+Árvore: é uma estrutura organizada de dados seus elementos de forma hierárquica, onde existe um elemento que fica no topo da árvore, chamado de raiz e existem os elementos subordinados a ele, que são chamados de nós ou folhas. 
+Tabela de Espalhamento – uma tabela hash, de dispersão ou espalhamento é uma estrutura de dados especial, que associa chaves de pesquisa a valores. 
+Grafos – estruturas que permitem programar a relação entre objetos. 
+Introdução ao Git ao GitHub
+Criar/altera/excluir pastas = comando “dir”
+Cd / aparece as pastas 
+Limpar – cls
+
+Git – Sha 1 significa secure hash algoritmo de hash seguro, é um conjunto de funções hash criptográficas projetadas pela NSA (agência de segurança nacional dos EUA). 
+Pega foto, arquivo e embaralha;
+Blobs | Trees | Commits – são objetos responsáveis pelo direcionamento pelo código.
+Blos 
+
+Tree – armazena blob 
+Comitê – tree z parente z autor z mensagem z timestamp
+
+O que são Branches – commit -m “adicionar navbar”
+Main ou master – master como padrão
+
+Pensamento Computacional: Refere-se ao processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador. 
+Formulação de problema e resolução deste processo. 
+Raciocínio lógico – é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema.  
+ Habilidade de treinamento. 
+Ele é classificado com três tipos: 1- indução 2- dedução leis e toeria dedução 
+3- abdução – a premissa – a grama está molhada, logo deve ser chovido. Diagnostocp
+
+ 
+  
+ 
+
+
+
+Projetos Ágeis com Scrum 
+Product owner – representante da área de negócios; é uma pessoa não é um comitê Define as funcionalidades do Software (Product Backlog); 
+Prioriza as funcionalidades de acordo com o valor de negócio, garante que o time de desenvolvimento entenda os itens de Backlog no nível necessário. 
+
+Scrum master – garante o uso correto do Scrum ; Scrum Master não é o gerente de projeto; age como facilictador; Auxilia a equipe a remover impedimentos; treina o time em autogerecimento e interdisciplinaridade. 
+
+Time de desenvolver – desenvolver, desenhar, testar, criar, ou seja tudo que for necessário para entregar o software funcionando. 
+Time Box – doutrinar o tempo máximo para fazer a cerimônia, para fazer uma SPRINT 
+Cerimonia do Scrum – 
+Sprint – planejamento, reunião diária, retrospectivas 
+Planejamento -  plannig poker – esforço de cada tarefa. 
+Reunião diária – 
+Retrospectivas da Sprint – fala sobre os erros time box: 3H(Sprint 30 dias 
+Gestão de projetos tradicional 
+Gestão de projetos Ágil – dá valor ao cliente, é mais rápido 
+
+Papel do Product Owner – representa o profissional que tem a visão do que será desenvolvido, as necessidades a serem atendidas, o público que vai utilizar os serviços e os objetivos a serem alcançados. Replanejar o projeto, cancelar. 
+Release Planning – liberação ou lançamento de software (inglês release) é o lançamento de nova versão oficial de produto de software. Cada vez que um produto de software é criado ou modificado, o fabricante e seus desenvolvedores decidem sobre como distribuir ou o novo produto ou a modificação às pessoas que o utilizam. 
+2 tipos de relese plannig – 
+Release planning de múltiplas squads 
+Release planning de projeto – PO demanda muito grande, quebra as histórias para executar.
+Definindo escopo e prioridade – 
+ 
+ 
+ 
+
+  
+ 
+ 
+ 
+ 
+
+
+
+
